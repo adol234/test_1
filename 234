@@ -139,6 +139,18 @@ https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="foxsport3" tvg-name="FOX SPORTS 3" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" tvg-chno="44" channel-id="44" group-title="SPORT",FOX SPORTS 3
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT",NBA TV HD
+http://latvonlive.com:33612/Llanos1/1234/262
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT",NBC Sports Bay Area HD
+http://latvonlive.com:33612/Llanos1/1234/741
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT",NBC Sports California HD
+http://latvonlive.com:33612/Llanos1/1234/743
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT",NBC Sports Chicago HD
+http://latvonlive.com:33612/Llanos1/1234/253
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT",NBC Sports Chicago Plus HD
+http://latvonlive.com:33612/Llanos1/1234/756
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT",NBCSN HD
+http://latvonlive.com:33612/Llanos1/1234/263
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC SPORT" tvg-logo="https://static.epg.best/id/MNCSports.id.png" tvg-chno="45" channel-id="45" group-title="SPORT",MNC SPORT
