@@ -287,7 +287,8 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?sta
 #EXTINF:-1 tvg-id="RetroMusic.cz" tvg-name="Retro Music Television" tvg-logo="https://static.epg.best/cz/RetroMusic.cz.png" tvg-chno="110" channel-id="110" group-title="MUSIK",Retro Music Television
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Guitar Relax" tvg-logo="" tvg-chno="111" channel-id="111" group-title="MUSIK",Guitar Relax
-https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/tracks-v1a1/mono.m3u8
+https://bozztv.com:443/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
