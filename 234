@@ -141,15 +141,15 @@ https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT",NBA TV HD
 http://latvonlive.com:33612/Llanos1/1234/262
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT",NBC Sports Bay Area HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT1",NBC Sports Bay Area HD
 http://latvonlive.com:33612/Llanos1/1234/741
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT",NBC Sports California HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT1",NBC Sports California HD
 http://latvonlive.com:33612/Llanos1/1234/743
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT",NBC Sports Chicago HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT1",NBC Sports Chicago HD
 http://latvonlive.com:33612/Llanos1/1234/253
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT",NBC Sports Chicago Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT1",NBC Sports Chicago Plus HD
 http://latvonlive.com:33612/Llanos1/1234/756
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT",NBCSN HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT1",NBCSN HD
 http://latvonlive.com:33612/Llanos1/1234/263
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
