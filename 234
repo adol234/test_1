@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gratismkctv.net/epg/epgtv.xml" x-tvg-url="https://gratismkctv.net/epg/epgtv.xml"
+#EXTM3U url-tvg="http://kedaiepg.atwebpages.com/epg.php" x-tvg-url="http://kedaiepg.atwebpages.com/epg.php"
 
 #EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://static.epg.best/id/HBO.id.png" group-title="HIBURAN",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
