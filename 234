@@ -294,6 +294,10 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="https://static.epg.best/au/MTV.au.png" group-title="MUSIK",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-logo="https://i.imgur.com/PRgvj4c.png" group-title="MUSIK",1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EuroLatina TV" tvg-logo="https://graph.facebook.com/eurolatinatelevision/picture?width=320&height=320" group-title="MUSIK",EuroLatina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fresh TV" tvg-logo="https://i.imgur.com/Ju3mLgq.png" group-title="MUSIK",Fresh TV
 https://strm.yandex.ru/kal/fresh/fresh0.m3u8
 #EXTINF:-1 tvg-id="RetroMusic.cz" tvg-name="Retro Music Television" tvg-logo="https://static.epg.best/cz/RetroMusic.cz.png" group-title="MUSIK",Retro Music Television
