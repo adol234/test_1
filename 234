@@ -294,10 +294,9 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fresh TV" tvg-logo="https://i.imgur.com/Ju3mLgq.png" group-title="MUSIK",Fresh TV
 https://strm.yandex.ru/kal/fresh/fresh0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOOZ Hits" tvg-logo="https://i.imgur.com/K7jP9r1.jpg" group-title="MUSIK",MOOZ Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="RetroMusic.cz" tvg-name="Retro Music Television" tvg-logo="https://static.epg.best/cz/RetroMusic.cz.png" group-title="MUSIK",Retro Music Television
-http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w949580360_b550000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Guitar Relax" tvg-logo="https://cdn.pixabay.com/photo/2018/06/29/17/47/guitar-3506370_960_720.jpg" group-title="MUSIK",Guitar Relax
 https://bozztv.com:443/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
 
