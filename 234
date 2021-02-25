@@ -139,6 +139,8 @@ https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="Fox Sport 3 FHD" tvg-name="FOX SPORTS 3" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="SPORT",FOX SPORTS 3
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
+#EXTINF:-1 tvg-id="nbatv" tvg-name="NBA TV THAILAND" tvg-logo="https://www.pinclipart.com/picdir/middle/88-884949_65-nba-tv-logo-vector-clipart.png" group-title="SPORT",NBA TV THAILAND
+https://livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="nbatv" tvg-name="NBA TV US" tvg-logo="https://www.pinclipart.com/picdir/middle/88-884949_65-nba-tv-logo-vector-clipart.png" group-title="SPORT",NBA TV US
 http://latvonlive.com:33612/Llanos1/1234/262
 #EXTINF:-1 tvg-id="" tvg-name="NBC Sports Bay Area" tvg-logo="https://p.kindpng.com/picc/s/469-4690554_nbc-sports-bay-area-nbc-sports-bay-area.png" group-title="SPORT",NBC Sports Bay Area
@@ -164,6 +166,8 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mp
 #EXTINF:-1 tvg-id="fightsports" tvg-name="FIGHT SPORT" tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="SPORT",FIGHT SPORT
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 tvg-id="AstroSuperSport" tvg-name="Astro Supersport" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORT",Astro Supersport
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport2" tvg-name="Astro Supersport 2" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="SPORT",Astro SuperSport 2
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport3" tvg-name="Astro Supersport 3" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORT",Astro Supersport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
