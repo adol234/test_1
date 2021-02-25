@@ -201,6 +201,30 @@ http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/48.m3u8
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
 #EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport 2" tvg-logo="https://static.epg.best/fr/Eurosport2.fr.png" group-title="SPORT",Eurosport 2
 https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png"group-title="SPORT",Bein Sports 01 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png"group-title="SPORT",Bein Sports 02 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png"group-title="SPORT",Bein Sports 03 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png"group-title="SPORT",Bein Sports 04 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png"group-title="SPORT",Bein Sports 05 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png"group-title="SPORT",Bein Sports 06 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png"group-title="SPORT",Bein Sports 07 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/8-HD.png"group-title="SPORT",Bein Sports 08 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/9-HD.png"group-title="SPORT",Bein Sports 09 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/10-HD.png"group-title="SPORT",Bein Sports 10 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/11-HD.png"group-title="SPORT",Bein Sports 11 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12-HD.png"group-title="SPORT",Bein Sports 12 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
