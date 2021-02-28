@@ -166,11 +166,11 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mp
 #EXTINF:-1 tvg-id="fightsports" tvg-name="FIGHT SPORT" tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="SPORT",FIGHT SPORT
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 tvg-id="AstroSuperSport" tvg-name="Astro Supersport" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORT",Astro Supersport
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport2" tvg-name="Astro Supersport 2" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="SPORT",Astro SuperSport 2
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport3" tvg-name="Astro Supersport 3" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORT",Astro Supersport 3
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 tvg-id="truepremierfootball1" tvg-name="TRUE PREMIER HD 1" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true1.png" group-title="SPORT",TRUE PREMIER HD 1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="truepremierfootball2" tvg-name="TRUE PREMIER HD 2" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true2.png" group-title="SPORT",TRUE PREMIER HD 2
