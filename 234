@@ -118,6 +118,18 @@ https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Mola Sports Free" tvg-logo="https://sinyalandroid.com/wp-content/uploads/2019/09/Download-Mola-TV-Apk-Streaming-Liga-Inggris-2019-2020-Official.png" group-title="HIBURAN",Mola Sports Free
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://static.epg.best/id/HBO.id.png" group-title="HIBURAN",HBO (backup)
+https://raw.githubusercontent.com/adol234/obh/main/index.m3u8
+#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://static.epg.best/id/HBOFamily.id.png" group-title="HIBURAN",HBO FAMILY (backup)
+https://raw.githubusercontent.com/adol234/obh_ylimaf/main/index.m3u8
+#EXTINF:-1 tvg-id="hbohits" tvg-name="HBO HITS" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="HIBURAN",HBO HITS (backup)
+https://raw.githubusercontent.com/adol234/obh_stih/main/index.m3u8
+#EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://static.epg.best/id/HBOSignature.id.png" group-title="HIBURAN",HBO SIGNATURE (backup)
+https://raw.githubusercontent.com/adol234/obh_erutangis/main/index.m3u8
+#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="HIBURAN",CINEMAX (backup)
+https://raw.githubusercontent.com/adol234/obh_xamenic/main/index.m3u8
+#EXTINF:-1 tvg-id="redbyhbo" tvg-name="Red by HBO" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Red-by-HBO.png" group-title="HIBURAN",Red by HBO (backup)
+https://raw.githubusercontent.com/adol234/obh_der/main/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
