@@ -1,17 +1,23 @@
 #EXTM3U url-tvg="" x-tvg-url=""
 
 #EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://static.epg.best/id/HBO.id.png" group-title="HIBURAN",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+https://raw.githubusercontent.com/adol234/obh/main/index.m3u8
 #EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://static.epg.best/id/HBOFamily.id.png" group-title="HIBURAN",HBO FAMILY
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+https://raw.githubusercontent.com/adol234/obh_ylimaf/main/index.m3u8
 #EXTINF:-1 tvg-id="hbohits" tvg-name="HBO HITS" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="HIBURAN",HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+https://raw.githubusercontent.com/adol234/obh_stih/main/index.m3u8
 #EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://static.epg.best/id/HBOSignature.id.png" group-title="HIBURAN",HBO SIGNATURE
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+https://raw.githubusercontent.com/adol234/obh_erutangis/main/index.m3u8
 #EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="HIBURAN",CINEMAX
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+https://raw.githubusercontent.com/adol234/obh_xamenic/main/index.m3u8
 #EXTINF:-1 tvg-id="redbyhbo" tvg-name="Red by HBO" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Red-by-HBO.png" group-title="HIBURAN",Red by HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+https://raw.githubusercontent.com/adol234/obh_der/main/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="FOXMovies.id" tvg-name="FOX MOVIES" tvg-logo="https://w7.pngwing.com/pngs/580/42/png-transparent-logo-fox-movies-fx-movie-channel-television-channel-design-television-text-logo.png" group-title="HIBURAN",FOX MOVIES
@@ -118,18 +124,6 @@ https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Mola Sports Free" tvg-logo="https://sinyalandroid.com/wp-content/uploads/2019/09/Download-Mola-TV-Apk-Streaming-Liga-Inggris-2019-2020-Official.png" group-title="HIBURAN",Mola Sports Free
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://static.epg.best/id/HBO.id.png" group-title="HIBURAN",HBO (backup)
-https://raw.githubusercontent.com/adol234/obh/main/index.m3u8
-#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://static.epg.best/id/HBOFamily.id.png" group-title="HIBURAN",HBO FAMILY (backup)
-https://raw.githubusercontent.com/adol234/obh_ylimaf/main/index.m3u8
-#EXTINF:-1 tvg-id="hbohits" tvg-name="HBO HITS" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="HIBURAN",HBO HITS (backup)
-https://raw.githubusercontent.com/adol234/obh_stih/main/index.m3u8
-#EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://static.epg.best/id/HBOSignature.id.png" group-title="HIBURAN",HBO SIGNATURE (backup)
-https://raw.githubusercontent.com/adol234/obh_erutangis/main/index.m3u8
-#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="HIBURAN",CINEMAX (backup)
-https://raw.githubusercontent.com/adol234/obh_xamenic/main/index.m3u8
-#EXTINF:-1 tvg-id="redbyhbo" tvg-name="Red by HBO" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Red-by-HBO.png" group-title="HIBURAN",Red by HBO (backup)
-https://raw.githubusercontent.com/adol234/obh_der/main/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -217,29 +211,29 @@ http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/48.m3u8
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
 #EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport 2" tvg-logo="https://static.epg.best/fr/Eurosport2.fr.png" group-title="SPORT",Eurosport 2
 https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png"group-title="SPORT",Bein Sports 01 HD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 01 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="SPORT",Bein Sports 01 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png"group-title="SPORT",Bein Sports 02 HD
+#EXTINF: -1 tvg-id="" tvg-name="Bein Sports 02 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="SPORT",Bein Sports 02 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png"group-title="SPORT",Bein Sports 03 HD
+#EXTINF: -1 tvg-id="" tvg-name="Bein Sports 03 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="SPORT",Bein Sports 03 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png"group-title="SPORT",Bein Sports 04 HD
+#EXTINF: -1 tvg-id="" tvg-name="Bein Sports 04 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="SPORT",Bein Sports 04 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png"group-title="SPORT",Bein Sports 05 HD
+#EXTINF: -1 tvg-id="" tvg-name="Bein Sports 05 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="SPORT",Bein Sports 05 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png"group-title="SPORT",Bein Sports 06 HD
+#EXTINF: -1 tvg-id="" tvg-name="Bein Sports 06 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="SPORT",Bein Sports 06 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png"group-title="SPORT",Bein Sports 07 HD
+#EXTINF: -1 tvg-id="" tvg-name="Bein Sports 07 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="SPORT",Bein Sports 07 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/8-HD.png"group-title="SPORT",Bein Sports 08 HD
+#EXTINF: -1 tvg-id="" tvg-name="Bein Sports 08 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/8-HD.png" group-title="SPORT",Bein Sports 08 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/9-HD.png"group-title="SPORT",Bein Sports 09 HD
+#EXTINF: -1 tvg-id="" tvg-name="Bein Sports 09 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/9-HD.png" group-title="SPORT",Bein Sports 09 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/10-HD.png"group-title="SPORT",Bein Sports 10 HD
+#EXTINF: -1 tvg-id="" tvg-name="Bein Sports 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/10-HD.png" group-title="SPORT",Bein Sports 10 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/11-HD.png"group-title="SPORT",Bein Sports 11 HD
+#EXTINF: -1 tvg-id="" tvg-name="Bein Sports 11 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/11-HD.png" group-title="SPORT",Bein Sports 11 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12-HD.png"group-title="SPORT",Bein Sports 12 HD
+#EXTINF: -1 tvg-id="" tvg-name="Bein Sports 12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12-HD.png" group-title="SPORT",Bein Sports 12 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -349,10 +343,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w949580360_b550000.m3u8
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSIK",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="MUSIK",Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Guitar Relax" tvg-logo="https://cdn.pixabay.com/photo/2018/06/29/17/47/guitar-3506370_960_720.jpg" group-title="MUSIK",Guitar Relax
-https://bozztv.com:443/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
