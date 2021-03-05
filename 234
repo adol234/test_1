@@ -171,39 +171,43 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="fightsports" tvg-name="FIGHT SPORT" tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="SPORT",FIGHT SPORT
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-#EXTINF:-1 tvg-id="truepremierfootball1" tvg-name="TRUE PREMIER HD 1" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true1.png" group-title="SPORT",TRUE PREMIER HD 1
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 1" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORT",Astro Supersport 1
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 3" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORT",Astro Supersport 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRUE PREMIER HD 1" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true1.png" group-title="SPORT",TRUE PREMIER HD 1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="truepremierfootball2" tvg-name="TRUE PREMIER HD 2" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true2.png" group-title="SPORT",TRUE PREMIER HD 2
+#EXTINF:-1 tvg-id="" tvg-name="TRUE PREMIER HD 2" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true2.png" group-title="SPORT",TRUE PREMIER HD 2
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="truesport1" tvg-name="TRUE SPORT 1" tvg-logo="http://202.74.236.189/~uzbwkzam/img/truesports.png" group-title="SPORT",TRUE SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORT 1" tvg-logo="http://202.74.236.189/~uzbwkzam/img/truesports.png" group-title="SPORT",TRUE SPORT 1
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="truesport2" tvg-name="TRUE SPORT 2" tvg-logo="http://202.74.236.189/~uzbwkzam/img/truesports2.png" group-title="SPORT",TRUE SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORT 2" tvg-logo="http://202.74.236.189/~uzbwkzam/img/truesports2.png" group-title="SPORT",TRUE SPORT 2
 https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="btsport1" tvg-name="BT SPORT 1" tvg-logo="https://static.epg.best/uk/BTSport1.uk.png" group-title="SPORT",BT SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 1" tvg-logo="https://static.epg.best/uk/BTSport1.uk.png" group-title="SPORT",BT SPORT 1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="btsport2" tvg-name="BT SPORT 2" tvg-logo="https://static.epg.best/uk/BTSport2.uk.png" group-title="SPORT",BT SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 2" tvg-logo="https://static.epg.best/uk/BTSport2.uk.png" group-title="SPORT",BT SPORT 2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORT",ESPN 1
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORT",ESPN 1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORT",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORT",ESPN 2
 https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-name="ESPN BRASIL" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="SPORT",ESPN BRASIL
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="SPORT",ESPN BRASIL
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
-#EXTINF:-1 tvg-id="MLBNetwork" tvg-name="MLB NETWORK" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="SPORT",MLB NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="SPORT",MLB NETWORK
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-id="NFLNetwork" tvg-name="NFL NETWORK" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="SPORT",NFL NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="NFL NETWORK" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="SPORT",NFL NETWORK
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
 #EXTINF:-1 tvg-id="" tvg-name="FS1" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="SPORT",FS1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
 #EXTINF:-1 tvg-id="" tvg-name="FS2" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2020/02/FS2.png" group-title="SPORT",FS2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
-#EXTINF:-1 tvg-id="Stadium" tvg-name="Stadium" tvg-logo="https://static.epg.best/us/Stadium.us.png" group-title="SPORT",Stadium
+#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="https://static.epg.best/us/Stadium.us.png" group-title="SPORT",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" group-title="SPORT",Eurosport
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" group-title="SPORT",Eurosport
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/48.m3u8
-#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport 1" tvg-logo="https://static.epg.best/fr/Eurosport1.fr.png" group-title="SPORT",Eurosport 1
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="https://static.epg.best/fr/Eurosport1.fr.png" group-title="SPORT",Eurosport 1
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
-#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport 2" tvg-logo="https://static.epg.best/fr/Eurosport2.fr.png" group-title="SPORT",Eurosport 2
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://static.epg.best/fr/Eurosport2.fr.png" group-title="SPORT",Eurosport 2
 https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports 01 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="SPORT",Bein Sports 01 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.m3u8
