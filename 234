@@ -150,6 +150,8 @@ https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 https://livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="nbatv" tvg-name="NBA TV US" tvg-logo="https://www.pinclipart.com/picdir/middle/88-884949_65-nba-tv-logo-vector-clipart.png" group-title="SPORT",NBA TV US
 http://latvonlive.com:33612/Llanos1/1234/262
+#EXTINF:-1 tvg-id="" tvg-name="ZQ Sport" tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="SPORT",ZQ Sport
+http://iptv.zqstream.com/zqsport-gen/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC Sports Bay Area" tvg-logo="https://p.kindpng.com/picc/s/469-4690554_nbc-sports-bay-area-nbc-sports-bay-area.png" group-title="SPORT",NBC Sports Bay Area
 http://latvonlive.com:33612/Llanos1/1234/741
 #EXTINF:-1 tvg-id="" tvg-name="NBC Sports California" tvg-logo="https://p.kindpng.com/picc/s/129-1297955_nbc-sports-california-nbc-sports-california-logo-hd.png" group-title="SPORT",NBC Sports California
