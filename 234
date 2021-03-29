@@ -214,10 +214,6 @@ https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="natgeowild" tvg-name="NATGEO WILD" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="PENGETAHUAN",NATGEO WILD
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="natgeopeople" tvg-name="NATGEO POEPLE" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="PENGETAHUAN",NATGEO POEPLE
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -230,19 +226,13 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="PENGETAHUAN",HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/vod_images/vi_vodlibrary_desc_t/201709/en_us/icon_hi_res/l00576" group-title="PENGETAHUAN",BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Asia Food Network" tvg-name="AFN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="PENGETAHUAN",ASIA FOOD NETWORK
-https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC EARTH" tvg-logo="https://static.epg.best/id/BBCEarth.id.png" group-title="PENGETAHUAN",BBC EARTH
 #https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_dash_vmx/BBCEarth.mpd
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="natgeowild" tvg-name="NATGEO WILD" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="PENGETAHUAN",NATGEO WILD
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://static.epg.best/id/AnimalPlanet.id.png" group-title="PENGETAHUAN",ANIMAL PLANET
@@ -253,13 +243,23 @@ http://51.52.156.21:8888/http/003
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="cgtndocumentary" tvg-name="CGTN DOCUMENTARY" tvg-logo="http://202.74.236.189/~uzbwkzam/img/cgtndoc.png" group-title="PENGETAHUAN",CGTN DOCUMENTARY
 http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
-#EXTINF:-1 tvg-id="fashiontv" tvg-name="FashionTV" tvg-logo="https://static.epg.best/fr/FashionTV.fr.png" group-title="PENGETAHUAN",FashionTV
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="LIFESTYLE",HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/vod_images/vi_vodlibrary_desc_t/201709/en_us/icon_hi_res/l00576" group-title="LIFESTYLE",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Asia Food Network" tvg-name="AFN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="LIFESTYLE",ASIA FOOD NETWORK
+https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="FashionTV" tvg-logo="https://static.epg.best/fr/FashionTV.fr.png" group-title="LIFESTYLE",FashionTV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTV.gr" tvg-name="FashionTV Midnight Secret" tvg-logo="https://static.epg.best/gr/FashionTV.gr.png" tvg-chno="87" channel-id="87" group-title="PENGETAHUAN",FashionTV Midnight Secret
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTV.gr" tvg-name="FashionTV Midnight Secret 1" tvg-logo="https://static.epg.best/gr/FashionTV.gr.png" tvg-chno="87" channel-id="87" group-title="PENGETAHUAN",FashionTV Midnight Secret 1
+#EXTINF:-1 tvg-id="FashionTV.gr" tvg-name="FashionTV Midnight Secret" tvg-logo="https://static.epg.best/gr/FashionTV.gr.png" tvg-chno="87" channel-id="87" group-title="LIFESTYLE",FashionTV Midnight Secret
 https://raw.githubusercontent.com/adol234/ftvms/main/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A3BIKINI TV" tvg-logo="" tvg-chno="89" channel-id="89" group-title="PENGETAHUAN",A3BIKINI TV
+#https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A3BIKINI TV" tvg-logo="" tvg-chno="89" channel-id="89" group-title="LIFESTYLE",A3BIKINI TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
