@@ -228,9 +228,8 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC EARTH" tvg-logo="https://static.epg.best/id/BBCEarth.id.png" group-title="PENGETAHUAN",BBC EARTH
 #https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_dash_vmx/BBCEarth.mpd
+#https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-#EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC EARTH (backup)" tvg-logo="https://static.epg.best/id/BBCEarth.id.png" group-title="PENGETAHUAN",BBC EARTH (backup)
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="natgeowild" tvg-name="NATGEO WILD" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="PENGETAHUAN",NATGEO WILD
