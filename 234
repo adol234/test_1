@@ -145,7 +145,7 @@ https://raw.githubusercontent.com/adol234/obh_erutangis/main/index.m3u8
 https://raw.githubusercontent.com/adol234/obh_xamenic/main/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="hits" tvg-name="HITS" tvg-logo="https://static.epg.best/id/HITS.id.png" group-title="BACKUP",HITS (backup)
-#http://210.210.155.35:80/session/64c966ea-c76c-11eb-8016-b82a72d63267/dr9445/h/h37/02.m3u8
+http://210.210.155.35:80/session/64c966ea-c76c-11eb-8016-b82a72d63267/dr9445/h/h37/02.m3u8
 #EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://static.epg.best/id/AXN.id.png" group-title="BACKUP",AXN (backup)
 http://210.210.155.35:80/session/bddf04ec-c76c-11eb-a245-b82a72d63267/uq2663/h/h141/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
