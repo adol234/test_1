@@ -146,6 +146,18 @@ https://raw.githubusercontent.com/adol234/obh_xamenic/main/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="tvn" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png" group-title="BACKUP",TVN (backup)
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6362_720p/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="foxsport1" tvg-name="FOX SPORTS 1" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="BACKUP",FOX SPORTS 1
+https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEZOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="foxsport2" tvg-name="FOX SPORTS 2" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="BACKUP",FOX SPORTS 2
+https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEZOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="foxsport3" tvg-name="FOX SPORTS 3" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428105_ico.png" group-title="BACKUP",FOX SPORTS 3
+https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -159,18 +171,15 @@ https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="foxsport1" tvg-name="FOX SPORTS 1" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="SPORT",FOX SPORTS 1
-#https://liveanevia.mncnow.id/live/eds/FOXSports/sa_dash_vmx/FOXSports.mpd
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="foxsport2" tvg-name="FOX SPORTS 2" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="SPORT",FOX SPORTS 2
-#https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="foxsport3" tvg-name="FOX SPORTS 3" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="SPORT",FOX SPORTS 3
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
-#https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="nbatv" tvg-name="NBA TV" tvg-logo="https://www.pinclipart.com/picdir/middle/88-884949_65-nba-tv-logo-vector-clipart.png" group-title="SPORT",NBA TV
 https://livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -185,10 +194,6 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="fightsports" tvg-name="FIGHT SPORT" tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="SPORT",FIGHT SPORT
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 1" tvg-logo="https://static.epg.best/uk/BTSport1.uk.png" group-title="SPORT",BT SPORT 1
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 2" tvg-logo="https://static.epg.best/uk/BTSport2.uk.png" group-title="SPORT",BT SPORT 2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORT",ESPN 2
 https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="https://static.epg.best/us/Stadium.us.png" group-title="SPORT",Stadium
@@ -197,6 +202,32 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://static.epg.best/fr/Eurosport2.fr.png" group-title="SPORT",Eurosport 2
 https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/320px-Canal%2B.svg.png" group-title="SPORT",CanalMotor
+http://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="SPORT",Матч
+https://46-166-142-27.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MotorTrend" tvg-logo="https://i.imgur.com/5ulOi6s.png" group-title="SPORT",MotorTrend
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Motors_TV_old.svg/1112px-Motors_TV_old.svg.png" group-title="SPORT",Motorvision
+http://rr.dens.tv/h/h09/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RdcvtZG/images-1.jpg" group-title="SPORT",SKY SPORT F1
+http://stream.tvtap.live:8081/live/skysportsf1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/uk/BTSport1.uk.png" group-title="SPORT",BT SPORT 1
+http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2fbtsport2.jpg" group-title="SPORT",BT SPORT 2
+http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2fbtsports3.jpg" group-title="SPORT",BT SPORT 3
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_sport_plus_hd.png" group-title="SPORT",RAI SPORT+
+http://stream.tvtap.live:8081/live/it-raisportplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="SPORT",Movistar La Liga
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruTQs2i.png" group-title="SPORT",One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w594325387_b628000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBqyqRx/sportstv.png" group-title="SPORT",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv_sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT",Setanta Sports
+http://ott-cdn.ucom.am/s81/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
