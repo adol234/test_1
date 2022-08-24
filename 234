@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="HBOAsia.sg" tvg-name="HBO" tvg-logo="http://dusktill.masuk.web.id/img/hbo.png" group-title="HIBURAN",HBO
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBO" tvg-logo="http://dusktill.masuk.web.id/img/hbo.png" group-title="HIBURAN",HBO
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -18,7 +18,7 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="CINEMAX" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="HIBURAN",CINEMAX
+#EXTINF:-1 tvg-id="CinemaxIndonesia.id" tvg-name="CINEMAX" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="HIBURAN",CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -126,7 +126,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="FightSports.us" tvg-name="FIGHT SPORT" tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="SPORT",FIGHT SPORT
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-#EXTINF:-1 tvg-logo="https://www.billiardstv.co.kr/image/common/footer_logo.gif" group-title="SPORT",Billard TV
+#EXTINF:-1 tvg-logo="https://www.billiardstv.co.kr/image/common/footer_logo.gif" group-title="SPORT",Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -135,11 +135,11 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="NationalGeographicAsia.us" tvg-name="NAT GEO" tvg-logo="https://static.epg.best/id/NatGeo.id.png" group-title="PENGETAHUAN",NAT GEO
+#EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="NAT GEO" tvg-logo="https://static.epg.best/id/NatGeo.id.png" group-title="PENGETAHUAN",NAT GEO
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.us" tvg-name="DISCOVERY" tvg-logo="https://static.epg.best/th/Discovery.th.png" group-title="PENGETAHUAN",DISCOVERY
+#EXTINF:-1 tvg-id="DiscoveryChannelIndonesia.id" tvg-name="DISCOVERY" tvg-logo="https://static.epg.best/th/Discovery.th.png" group-title="PENGETAHUAN",DISCOVERY
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -153,7 +153,7 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="NationalGeographicWildAsia.hk" tvg-name="NATGEO WILD" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="PENGETAHUAN",NATGEO WILD
+#EXTINF:-1 tvg-id="NationalGeographicWildIndonesia.id" tvg-name="NATGEO WILD" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="PENGETAHUAN",NATGEO WILD
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -166,10 +166,6 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="LIFESTYLE",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-#EXTINF:-1 tvg-id="" tvg-name="BIZNET LIFESTYLE" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="LIFESTYLE",BIZNET LIFESTYLE
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/vod_images/vi_vodlibrary_desc_t/201709/en_us/icon_hi_res/l00576" group-title="LIFESTYLE",BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AFN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="LIFESTYLE",ASIA FOOD NETWORK
