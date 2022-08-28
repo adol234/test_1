@@ -32,6 +32,8 @@ https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://i.imgur.com/UWCKaJw.png" group-title="HIBURAN",IMC
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#EXTINF:-1 tvg-id="CinemaIndonesia.id" tvg-logo="https://i.imgur.com/UWCKaJw.png" group-title="HIBURAN",Cinema Indonesia
+http://203.77.246.50:5000/udp/239.1.1.74:5000
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-name="WARNER TV" tvg-logo="https://static.epg.best/id/WarnerTV.id.png" group-title="HIBURAN",WARNER TV
@@ -304,8 +306,10 @@ https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="IDXChannel.id" tvg-name="IDX CHANEL" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png" group-title="LOKAL",IDX CHANEL
 https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
-#EXTINF:0 tvg-id="OChannel.id" tvg-name="OKTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ochannel.svg/400px-Ochannel.svg.png" group-title="LOKAL",O Channel
+#EXTINF:0 tvg-id="OChannel.id" tvg-name="O CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ochannel.svg/400px-Ochannel.svg.png" group-title="LOKAL",O Channel
 http://210.210.155.35/session/5df96e6a-66fd-11ec-8c65-b82a72d63267/x6bnqe/s/s73/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="JambiTV.id" tvg-name="JAMBI TB" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c7/Jambi_TV_2019.png" group-title="LOKAL",Jambi TV
+http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
