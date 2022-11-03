@@ -109,6 +109,14 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="BEIN SPORTS 02" tvg-logo="https://static.epg.best/id/beINSports2.id.png" tvg-chno="41" channel-id="41" group-title="SPORT",BEIN SPORTS 03
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#EXTINF:0 tvg-id="ChampionsTV1" tvg-name="MNC Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SPORT",Champions TV 1
+http://tvn.x10.mx/playlist/master-7.m3u8
+#EXTINF:0 tvg-id="ChampionsTV2" tvg-name="MNC Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/3t3zHq1HLp4HOlhQfZA1-rc7QQ4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="SPORT",Champions TV 2
+http://tvn.x10.mx/playlist/master-8.m3u8
+#EXTINF:0 tvg-id="ChampionsTV3" tvg-name="MNC Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/f4-7EI2_Sj9cY0Tb1v8QHyA1QBU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="SPORT",Champions TV 3
+http://tvn.x10.mx/playlist/master-9.m3u8
+#EXTINF:0 tvg-id="ChampionsTV3" tvg-name="MNC Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/8Adkatc5FOn7sDWcDXU7_DZAo6o=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9045/champions-tv-goal-a7fc3e.jpg" group-title="SPORT",Champions TV Goal
+http://tvn.x10.mx/playlist/master-10.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="http://dusktill.masuk.web.id/img/mncsports.png" group-title="SPORT",MNC Sports
