@@ -101,14 +101,12 @@ https://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="SPOTV2.kr" group-title="SPORT" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
 https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-name="BEIN SPORTS 01" tvg-logo="https://static.epg.best/id/beINSports1.id.png" tvg-chno="40" channel-id="40" group-title="SPORT",BEIN SPORTS 01
-https://liveaneviadev.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="BEIN SPORTS 02" tvg-logo="https://static.epg.best/id/beINSports2.id.png" tvg-chno="41" channel-id="41" group-title="SPORT",BEIN SPORTS 03
-https://liveaneviadev.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS PREMIUM 01" tvg-logo="https://i.ibb.co/0GVLnQm/download.png" tvg-chno="40" channel-id="40" group-title="SPORT",BEIN SPORTS PREMIUM 01
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/203
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS PREMIUM 01" tvg-logo="https://i.ibb.co/0GVLnQm/download.png" tvg-chno="40" channel-id="40" group-title="SPORT",BEIN SPORTS PREMIUM 02
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/206
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS PREMIUM 01" tvg-logo="https://i.ibb.co/0GVLnQm/download.png" tvg-chno="40" channel-id="40" group-title="SPORT",BEIN SPORTS PREMIUM 03
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/209
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="http://dusktill.masuk.web.id/img/mncsports.png" group-title="SPORT",MNC Sports
