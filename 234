@@ -1,11 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=YzQ5NTZiMWI0ZTAxMWUyN1laRHhMbldHc0loUnc4blR0UWlGeVlTWEJDTnNuR0JlR1hocExZRnJiUm0xNDAwUjVjd2FhbFBaTk5qWnlFWXByOVJ6QVI3RHlmTmR4QWJQSmZzVHdQT3l5Tk1UanlPMDdrakw1elNNK0h5cVA1U2pERjR0eTFZM2YrcitaYnE1
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/ab4eed7b/ddc6.png" tvg-id="iNews.id" tvg-name="iNews " group-title="TV Nasional",iNews  (Vision)
-https://cdn.renotv.my.id/go/playv2/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="HBOAsia.sg" tvg-name="HBO" tvg-logo="http://dusktill.masuk.web.id/img/hbo.png" group-title="HIBURAN",HBO
 https://avi-live-channel-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
