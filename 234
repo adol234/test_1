@@ -1,6 +1,11 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=Y2Q2YTJhZWMyYTQwOWQzZGQvVDNpN3J6ZUJ2TUVzSERTM1ZIU0VqeGxXSFBLaU05czJVZ0R4SHoyK1JpT0RjNm9mNTJxUUIyUzBwbnpGbjVnbmhOSWl2Z1NIZ3doTi9ObU5tcFM3TS9uc3JIQitkM3RSNDJSWXR0MGgxbUhhRC9ZK2lLNHVoL0dLVFo5by9z
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PzlSM3PEzadqoeKdsE2pgOZqixA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png" tvg-id="Bein1.id" tvg-name="Bein 1" group-title="Olahraga",Bein 1 (Vidio)
+https://cdn.renotv.my.id/get.mpd?ch=MzA1OWJlYTg4NDY2NDY4YWdSZDBPNGdIOHF3aXh1a3g2NXVveXd1ZEtDYk5zVEZ2NGFJY3VFRXRzcmxYY09UZ3BtVEZyVE5ZSjZYbkc4ZEwwa0lLVlNaOUlveVYxQUd1bE80ZExwYlNHNDBEK1FBcWpyUjNQRUtHcVZwNGZ4R2pvQVF4OW1DczEzR2xUdGV0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="HBOAsia.sg" tvg-name="HBO" tvg-logo="http://dusktill.masuk.web.id/img/hbo.png" group-title="HIBURAN",HBO
 https://avi-live-channel-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
