@@ -110,6 +110,10 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSp
 #EXTINF:-1 tvg-id="MNC.Sports.2.id" tvg-logo="https://static.mncnow.id/images/channel/516c7676/3afe.png" group-title="SPORT",MNC SPORT 2
 https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="MNC.Sports.3.id" group-title="SPORT" tvg-logo="https://i.imgur.com/1BxSDLy.png",MNC SPORTS 3
+https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="SOCCER CHANNEL" tvg-logo="https://www.infotelevisi.com/asset/images/tv/Soccer-Channel.jpg" group-title="SPORT",SOCCER CHANNEL
 #https://anevi-live-channel-cdn.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mpd
@@ -171,8 +175,9 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/L
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="FashionTV" tvg-logo="https://static.epg.best/fr/FashionTV.fr.png" group-title="LIFESTYLE",FashionTV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTV.gr" tvg-name="FashionTV Midnight Secret" tvg-logo="https://static.epg.best/gr/FashionTV.gr.png" tvg-chno="87" channel-id="87" group-title="LIFESTYLE",FashionTV Midnight Secret
-https://raw.githubusercontent.com/adol234/ftvms/main/index.m3u8
-#https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#https://raw.githubusercontent.com/adol234/ftvms/main/index.m3u8
+#http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -343,7 +348,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWo
 https://anevi-live-channel-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 
-=======================BAKUP OLAHRAGA===================
+=======================BACKUP OLAHRAGA===================
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="SPORT (BACKUP)",beIN SPORTS XTRA
 https://siloh.pluto.tv/lilo/production/bein/b1121710f0b14c1146591b65168004e6/master.m3u8
 
@@ -554,4 +559,52 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/as791qpnhw4gn6i/densplay.png" group-title="SPORT (BACKUP)",Dens Play
 http://210.210.155.37/x6bnqe/s/s37/index.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Dazn 1 Sport
+http://204.12.247.162:8080/premium426/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Dazn 2 Sport
+http://204.12.247.162:8080/premium427/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Arena 1 Sport
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/arns1.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Arena 2 Sport
+https://kusnadipepenk.github.io/ntn/arns2.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Arena 3 Sport
+https://kusnadipepenk.github.io/ntn/arns3.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Arena 4 Sport
+https://kusnadipepenk.github.io/ntn/arns4.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Eleven 1
+https://kusnadipepenk.github.io/ntn/ele1.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Eleven 2
+https://kusnadipepenk.github.io/ntn/ele2.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Eleven 3
+https://kusnadipepenk.github.io/ntn/ele3.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",SportTV 1
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv1.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",SportTV 2
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv2.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",SportTV 3
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv3.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",SportTV 4
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Bein Sports 1
+https://kusnadipepenk.github.io/ntn/bs1.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Bein Sports 2
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bs2.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Bein Sports 3
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bs3.m3u8
 =================END BACKUP OLAHRAGA=======================
