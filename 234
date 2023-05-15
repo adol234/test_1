@@ -1,6 +1,6 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 
-#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png" group-title="HIBURAN",HBO
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png" group-title="HIBURAN",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8,7 +8,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png" group-title="HIBURAN",HBO Family
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png" group-title="HIBURAN",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -16,7 +16,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="HIBURAN",HBO Hits
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="HIBURAN",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -24,7 +24,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO.Signature.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="HIBURAN",HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="HIBURAN",HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -32,7 +32,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 tvg-id="412.astro" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="HIBURAN",Cinemax
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="HIBURAN",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -53,7 +53,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/G
 #EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://i.imgur.com/UWCKaJw.png" group-title="HIBURAN",IMC
 https://anevi-live-channel-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-id="Warner.TV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png" group-title="HIBURAN",Warner TV
+#EXTINF:-1 tvg-id="712.astro" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png" group-title="HIBURAN",Warner TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -69,6 +69,11 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="HitsMovies.sg" tvg-name="HITS MOVIES" tvg-logo="https://static.epg.best/my/HitsMovies.my.png" group-title="HIBURAN",HITS MOVIES
 https://anevi-live-channel-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#EXTINF:-1 tvg-id="HitsNow.id" tvg-logo="https://i.imgur.com/luOgHX0.png" group-title="HIBURAN",Hits Now
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd35274e-60ca-4ea7-91a5-38cc444c1b80)/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="AXNIndonesia.id" tvg-name="AXN" tvg-logo="https://static.epg.best/id/AXN.id.png" group-title="HIBURAN",AXN
@@ -156,8 +161,10 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="National.Geographic.Channel.id" tvg-name="NAT GEO" tvg-logo="https://static.epg.best/id/NatGeo.id.png" group-title="PENGETAHUAN",NAT GEO
 https://anevi-live-channel-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#EXTINF:-1 tvg-id="553.astro" tvg-logo="https://i.imgur.com/xob00ox.png" group-title="SCIENCE & DOCUMENTARY",Discovery Asia
+https://github.com/mimipipi22/nontontv/raw/main/FMX/discoveryasia.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.Science.id" tvg-logo="https://i.imgur.com/34WQfut.png" group-title="PENGETAHUAN",Discovery Science
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://i.imgur.com/34WQfut.png" group-title="PENGETAHUAN",Discovery Science
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
