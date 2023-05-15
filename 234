@@ -1,6 +1,6 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png" group-title="HIBURAN",HBO
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png" group-title="HIBURAN",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8,12 +8,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 group-title="HIBURAN" tvg-id="HBO.id" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO (backup)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTINF:-1 tvg-id="HBO.Family.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png" group-title="HIBURAN",HBO Family
+#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png" group-title="HIBURAN",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -21,7 +16,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO.Hits.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="HIBURAN",HBO Hits
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="HIBURAN",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -37,7 +32,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 tvg-id="CINEMAX.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="HIBURAN",Cinemax
+#EXTINF:-1 tvg-id="412.astro" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="HIBURAN",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
