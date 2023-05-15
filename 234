@@ -69,7 +69,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="HitsMovies.sg" tvg-name="HITS MOVIES" tvg-logo="https://static.epg.best/my/HitsMovies.my.png" group-title="HIBURAN",HITS MOVIES
 https://anevi-live-channel-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-#EXTINF:-1 tvg-id="HITS Now" tvg-logo="https://i.imgur.com/BQerEuI.png" group-title="ENTERTAINMENT",Hits Now (Usee)
+#EXTINF:-1 tvg-id="HITS Now" tvg-logo="https://i.imgur.com/BQerEuI.png" group-title="HIBURAN",Hits Now (Usee)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=hitsnow
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=hitsnow
