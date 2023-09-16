@@ -617,12 +617,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/as791qpnhw4gn6i/densplay.png" group-title="SPORT (BACKUP)",Dens Play
 http://210.210.155.37/x6bnqe/s/s37/index.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Dazn 1 Sport
-http://204.12.247.162:8080/premium426/mono.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Dazn 2 Sport
-http://204.12.247.162:8080/premium427/mono.m3u8
-
 #EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Arena 1 Sport
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/arns1.m3u8
 
@@ -656,20 +650,8 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",SportTV 4
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Bein Sports 1 TH
+#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Bein Sports 1
 https://kusnadipepenk.github.io/ntn/bs1.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Bein Sports 2
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bs2.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Bein Sports 3
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bs3.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORT (BACKUP)",Bein Sports 1 ID
-https://beetv.my.id/x/usee-bein1-masihsama.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORT (BACKUP)",Bein Sports 3 ID
-https://beetv.my.id/x/usee-bein2-masihsama.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORT (BACKUP)",SkySports F1
 http://176.57.50.167:25461/122162/994771/78149
