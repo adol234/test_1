@@ -204,7 +204,8 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/index.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="Asian.Food.Network.id" tvg-name="AFN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="LIFESTYLE",ASIA FOOD NETWORK
-https://nxanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+#https://nxanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
 
 #EXTINF:-1 tvg-id="Eat.N.Go.id" tvg-logo="https://i.imgur.com/wNwbgG0.png" group-title="LIFESTYLE",Eat & Go
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -657,7 +658,7 @@ https://kusnadipepenk.github.io/ntn/bs1.m3u8
 http://176.57.50.167:25461/122162/994771/78149
 =================END BACKUP OLAHRAGA=======================
 
-
+=================BACKUP MOVIES=======================
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Cinemachi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -693,3 +694,6 @@ http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/196480
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221948
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png" group-title="MOVIES", Cinemax
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197964
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/24042679_ico.png?ts=1690045148" group-title="MOVIES",PARAMOUNT
+http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
