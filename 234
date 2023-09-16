@@ -164,7 +164,8 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.Channel.id" tvg-name="NAT GEO" tvg-logo="https://static.epg.best/id/NatGeo.id.png" group-title="PENGETAHUAN",NAT GEO
 https://nxanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 #EXTINF:-1 tvg-id="553.astro" tvg-logo="https://i.imgur.com/xob00ox.png" group-title="PENGETAHUAN",Discovery Asia
-https://github.com/mimipipi22/nontontv/raw/main/FMX/discoveryasia.m3u8
+#https://github.com/mimipipi22/nontontv/raw/main/FMX/discoveryasia.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://i.imgur.com/34WQfut.png" group-title="PENGETAHUAN",Discovery Science
 #KODIPROP:inputstreamaddon=inputstream.adaptive
