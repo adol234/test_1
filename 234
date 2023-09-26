@@ -48,13 +48,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="HIBURAN",GALAXY PREMIUM
 https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-
 #EXTINF:-1 tvg-id="PARAMOUNT.HD.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/24042679_ico.png?ts=1690045148" group-title="HIBURAN",PARAMOUNT
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="HIBURAN",Rock Entertainment
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="HIBURAN",Rock Action
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -79,6 +74,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="HitsMovies.sg" tvg-name="HITS MOVIES" tvg-logo="https://static.epg.best/my/HitsMovies.my.png" group-title="HIBURAN",HITS MOVIES
 https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#EXTINF:-1 tvg-id="Rock.Entertainment.id" tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="HIBURAN",Rock Entertainment
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
+#EXTINF:-1 tvg-id="Rock.Action.id" tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="HIBURAN",Rock Action
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
