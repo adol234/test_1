@@ -141,7 +141,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600262_ico.png?ts=1655148798" group-title="SPORT",BeIN SPORTS 1 
-https://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
+#https://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165105
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
@@ -151,7 +152,8 @@ https://1.yurend.xyz/dash-wv/linear/5066/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1660770496" group-title="SPORT",beIN SPORTS 3
-https://1.yurend.xyz/dash-wv/linear/2705/default_primary.mpd
+#https://1.yurend.xyz/dash-wv/linear/2705/default_primary.mpd
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298506
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
