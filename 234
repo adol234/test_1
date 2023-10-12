@@ -734,8 +734,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hits.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hitmovie.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cinemaxp.openwindow040.workers.dev
-#EXTINF:-1 group-title="HIBURAN (Backup)" tvg-id="hitsnow" tvg-url="" tvg-logo="https://i.imgur.com/uB76Ft0.png",Hits Now
-http://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd35274e-60ca-4ea7-91a5-38cc444c1b80)/manifest.mpd
 ======================END BACKUP MOVIES==========================
 
 =====================BACKUP SPORTS 2======================================
