@@ -4,31 +4,31 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png" group-title="HIBURAN",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="HIBURAN",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbohits.m3u8
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="HIBURAN",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbosig.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="HIBURAN",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cinemax.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -40,8 +40,9 @@ https://mangga-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="HIBURAN",GALAXY PREMIUM
 https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
 #EXTINF:-1 tvg-id="PARAMOUNT.HD.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/24042679_ico.png?ts=1690045148" group-title="HIBURAN",PARAMOUNT
-http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/paramount.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -49,13 +50,13 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u
 #EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://i.imgur.com/UWCKaJw.png" group-title="HIBURAN",IMC
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 #EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://images.useetv.com/logo_flik_small1.png" group-title="HIBURAN",Flik
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165095
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/flik.m3u8
 
 #EXTINF:-1 tvg-id="712.astro" tvg-logo="https://images.useetv.com/logo_warner_small.png" group-title="HIBURAN",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+http://iptvtree.net:8080/F26646/f950f250/157594
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -684,9 +685,6 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="SPORT (BACKUP)",Bein Sports 1
 https://kusnadipepenk.github.io/ntn/bs1.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORT (BACKUP)",SkySports F1
-http://176.57.50.167:25461/122162/994771/78149
 =================END BACKUP OLAHRAGA=======================
 
 =================BACKUP MOVIES=======================
@@ -720,26 +718,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
-#EXTINF:-1 tvg-id="HBO HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="HIBURAN (Backup)",HBO (FHD)
-http://tvkuonline.my.id:25461/riyad/riyad/412
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="HIBURAN (Backup)",HBO Family (FHD)
-http://tvkuonline.my.id:25461/riyad/riyad/415
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="HIBURAN (Backup)",HBO Hits (FHD)
-http://tvkuonline.my.id:25461/riyad/riyad/413
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="HIBURAN (Backup)",HBO Signature (FHD)
-http://tvkuonline.my.id:25461/riyad/riyad/414
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="HIBURAN (Backup)",Cinemax (FHD)
-http://tvkuonline.my.id:25461/riyad/riyad/424
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_warner_small.png" group-title="HIBURAN (Backup)",Warner TV (A*)
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157550
-
-#EXTINF:-1 group-title="HIBURAN (Backup)" tvg-logo="https://i.postimg.cc/7YDMKY54/20230520-094435.jpg",HITS (F*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hits.m3u8
-#EXTINF:-1 group-title="HIBURAN (Backup)" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png",HITS Movies (F*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hitmovie.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cinemaxp.openwindow040.workers.dev
 ======================END BACKUP MOVIES==========================
 
 =====================BACKUP SPORTS 2======================================
@@ -875,5 +853,16 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115433_&exte
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115805_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXhsnEyJlU37o_mIrCwRY9VIFRkHRxrF7jA&usqp=CAU" group-title="SPORT (BACKUP 2)", TRUE FIGHT
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115500_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="SPORT (BACKUP 2)", F1 LIVE 1
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=520553_&extension=ts
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="SPORT (BACKUP 2)", F1 LIVE 2
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=603379_&extension=ts
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="SPORT (BACKUP 2)", F1 LIVE 3
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=728722_&extension=ts
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="SPORT (BACKUP 2)", F1 LIVE 4
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=768770_&extension=ts
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="SPORT (BACKUP 2)", F1 LIVE 5
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=799064_&extension=ts
 
 =====================END BACKUP SPORTS 2======================================
