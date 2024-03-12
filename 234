@@ -1,39 +1,25 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png" group-title="HIBURAN",HBO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png" group-title="HIBURAN",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="HIBURAN",HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbohits.m3u8
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="HIBURAN",HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbosig.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="HIBURAN",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cinemax.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://i.imgur.com/w8pi4Ip.png" group-title="HIBURAN",Galaxy
-https://mangga-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
