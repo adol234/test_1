@@ -842,6 +842,8 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115500_&exte
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT (BACKUP 2)",DAZN F1
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/M3U/daznF1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT (BACKUP 2)",DAZN F1 - 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=55560&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="SPORT (BACKUP 2)", F1 LIVE 1
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=520553_&extension=ts
