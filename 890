@@ -4577,3 +4577,20 @@ https://smt.1789.dpdns.org/smt3.2.1.php?id=Quanjia
 https://smt.1789.dpdns.org/smt3.2.1.php?id=Huahee
 #EXTINF:-1 tvg-logo="" group-title="China",Celestial Movies
 https://smt.1789.dpdns.org/smt3.2.1.php?id=Celestial
+
+
+#EXTINF:-1 tvg-name="Tsn 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="SPORT", TSN 1 USA
+https://fl5.moveonjoy.com/TSN_1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Tsn 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="USA", TSN 2 USA
+https://fl5.moveonjoy.com/TSN_2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Tsn 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png" group-title="USA", TSN 3 USA
+https://fl5.moveonjoy.com/TSN_3/index.m3u8
+
+#EXTINF:-1 tvg-name="Tsn 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="USA", TSN 4 USA
+https://fl5.moveonjoy.com/TSN_4/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Tsn 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sytpty1433380112.png" group-title="USA", TSN 5 USA
+https://fl5.moveonjoy.com/TSN_5/tracks-v1a1/mono.ts.m3u8
+
