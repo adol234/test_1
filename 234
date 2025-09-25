@@ -51,9 +51,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #EXTINF:-1 tvg-id="HitsMovies.sg" tvg-name="HITS MOVIES" tvg-logo="https://static.epg.best/my/HitsMovies.my.png" group-title="HIBURAN",HITS MOVIES
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://github.com/mimipipi22/logo/blob/main/entertainment/rockent.jpg?raw=true" group-title="HIBURAN",ROCK ENTERTAINMENT
+https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&chname=ROCK_Entertainment_HD
 
-#EXTINF:-1 tvg-id="Rock.Entertainment.id" tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="HIBURAN",Rock Entertainment
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
 #EXTINF:-1 tvg-id="Rock.Action.id" tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="HIBURAN",Rock Action
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
 
