@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="IPTV" tvg-logo="",Playboy
-http://23.237.100.82:8000/PLAYBOY/index.m3u8
-
-#EXTINF:-1  group-title="IPTV" tvg-logo="",Penthouse
-http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-
 #EXTINF:-1  group-title="IPTV" tvg-logo="" ,AdultIPTV.net Anal
 http://cdn.adultiptv.net/anal.m3u8
 
